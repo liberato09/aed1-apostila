@@ -1,0 +1,54 @@
+# Project information
+site_name: Estrutura de Dados 1
+site_description: Notas de aula
+site_author: Rafael Liberato
+site_url:
+
+theme:
+  name: "material"
+  language: "pt"
+  # feature:
+  #   tabs: true
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - codehilite:
+      linenums: true
+  - footnotes
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - Ponteiros:
+      - Conceitos fundamentais: ponteiros/definicao.md
+      - Alocação Dinâmica: ponteiros/alocacao-dinamica.md
+
+# Google Analytics
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto
+# Copyright
+# copyright: "Todo conteúdo está licenciado sob Creative Commons"
