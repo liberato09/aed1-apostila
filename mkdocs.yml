@@ -11,12 +11,18 @@ theme:
     tabs: true
 
 nav:
-  - Home: index.md
-  - Ponteiros:
-      - Conceitos fundamentais: ponteiros/definicao.md
-      - Ponteiros e Vetores: ponteiros/ponteiros-vetores.md
-      - Ponteiros e Registros: ponteiros/ponteiros-registros.md
+  - HOME: index.md
+  - MEMÓRIA:
+      - Tipos Primitivos: variaveis/tipos-primitivos.md
+  - FUNÇÕES:
+      - Conceitos fundamentais: funcoes/conceitos-fundamentais.md
+  - PONTEIROS:
+      - Conceitos fundamentais: ponteiros/conceitos-fundamentais.md
+      - Um pouco mais: ponteiros/conceitos-avancados.md
       - Alocação Dinâmica: ponteiros/alocacao-dinamica.md
+      - Ponteiros e Vetores: ponteiros/ponteiros-vetores.md
+      - Ponteiros e Estruturas: ponteiros/ponteiros-estruturas.md
+      - Ponteiros e Funções: ponteiros/ponteiros-funcoes.md
 
 # Plugins
 plugins:
