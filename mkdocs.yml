@@ -7,8 +7,16 @@ site_url:
 theme:
   name: "material"
   language: "pt"
-  # feature:
-  #   tabs: true
+  feature:
+    tabs: true
+
+nav:
+  - Home: index.md
+  - Ponteiros:
+      - Conceitos fundamentais: ponteiros/definicao.md
+      - Ponteiros e Vetores: ponteiros/ponteiros-vetores.md
+      - Ponteiros e Registros: ponteiros/ponteiros-registros.md
+      - Alocação Dinâmica: ponteiros/alocacao-dinamica.md
 
 # Plugins
 plugins:
@@ -39,12 +47,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
-nav:
-  - Home: index.md
-  - Ponteiros:
-      - Conceitos fundamentais: ponteiros/definicao.md
-      - Alocação Dinâmica: ponteiros/alocacao-dinamica.md
 
 # Google Analytics
 google_analytics:
