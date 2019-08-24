@@ -1,7 +1,7 @@
 # Alocação Dinâmica
 
 
-<!-- ![](../assets/images/ponteiros/memoria.png) -->
+
 
 <img class="center" src = "../../assets/images/ponteiros/memoria.png" width="45%" height="45%"/>
 
