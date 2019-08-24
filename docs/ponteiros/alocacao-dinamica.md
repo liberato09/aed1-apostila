@@ -1,11 +1,22 @@
 # Alocação Dinâmica
 
+
+<!-- ![](../assets/images/ponteiros/memoria.png) -->
+
+<img class="center" src = "../../assets/images/ponteiros/memoria.png" width="30%" height="30%"/>
+
+
+
+
+
+<a href="https://repl.it/@liberato/TADData" target="_blank">Código</a>
 ```c
 void *malloc(size_t tam)
 
 ```
 
-![memoria|50x50](../assets/images/ponteiros/memoria.png){: style="height:150px;width:150px"}
+
+
 
 
 

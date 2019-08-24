@@ -60,3 +60,6 @@ google_analytics:
   - auto
 # Copyright
 # copyright: "Todo conteúdo está licenciado sob Creative Commons"
+
+extra_css:
+  - "assets/stylesheets/extra.css"

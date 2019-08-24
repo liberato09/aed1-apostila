@@ -16,7 +16,7 @@ A disciplina de **Algoritmos e Estrutura de Dados 1** é lecionada no 2<sup>o</s
 ## Referência
 - [teste](https://repl.it/@liberato/TADData)
 
-- <a href="https://repl.it/@liberato/TADData" target="_blank">Código</a>
+<!-- - <a href="https://repl.it/@liberato/TADData" target="_blank">Código</a> -->
 
-<img src = "assets/images/material.png"/>
-<img src = "assets/images/ponteiros/memoria.png" width="40%" height="40%"/>
+
+<!-- <img src = "assets/images/ponteiros/memoria.png" width="50%" height="50%"/> -->
