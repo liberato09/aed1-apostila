@@ -14,4 +14,9 @@ A disciplina de **Algoritmos e Estrutura de Dados 1** é lecionada no 2<sup>o</s
 - Listas em alocação estática e alocação dinâmica.
 
 ## Referência
-  
+- [teste](https://repl.it/@liberato/TADData)
+
+- <a href="https://repl.it/@liberato/TADData" target="_blank">Código</a>
+
+<img src = "assets/images/material.png"/>
+<img src = "assets/images/ponteiros/memoria.png" width="40%" height="40%"/>
