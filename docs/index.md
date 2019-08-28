@@ -20,3 +20,4 @@ A disciplina de **Algoritmos e Estrutura de Dados 1** é lecionada no 2<sup>o</s
 
 
 <!-- <img src = "assets/images/ponteiros/memoria.png" width="50%" height="50%"/> -->
+
